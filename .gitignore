@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.env
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xmpdata
+*.pdfa
+*.out
+*.toc
+*.lof
+*.lot
+missfont.log
+pdfa.xmpi
+*.abs
+*.xmpdata
+
+# macOS
+.DS_Store
+**/.DS_Store
+.Rhistory
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Large archives
+*.zip
+
+# Figures (keep only what the paper uses)
+# paper/figures/ is tracked — do not ignore
+
+# Temporary files
+/tmp/
