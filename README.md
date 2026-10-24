@@ -1,5 +1,7 @@
 # AIG: Towards a Mechanistic Science of Retrieval Integrity in Associative Memory Systems
 
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23625258.svg)](https://doi.org/10.5281/zenodo.23625258)
+
 **MeMo Workshop on Mechanistic Interpretability & Neuro-symbolic Approaches by-design**
 Rome, Italy — June 24, 2026
 
